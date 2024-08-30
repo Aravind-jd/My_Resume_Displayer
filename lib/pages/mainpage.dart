@@ -623,7 +623,7 @@ class _MainpageState extends State<Mainpage> {
                                         ),
 
                                         trailing: Link(
-                                            uri: Uri.parse('https://github.com/Aravind2810'),
+                                            uri: Uri.parse('https://aravind-jd.github.io/My_Portfolio/'),
                                             builder: ((context, followLink)=>
                                                 IconButton(
                                                   onPressed: followLink,
