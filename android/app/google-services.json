@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199339725352",
+    "project_id": "aravind-resume-29",
+    "storage_bucket": "aravind-resume-29.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199339725352:android:b643a6dbe67324c6179b1d",
+        "android_client_info": {
+          "package_name": "com.example.my_resume"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJmbtKnj7ptVkK4d31julJ18jwCQzwBzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

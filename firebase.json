@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "aravind-resume-29",
+          "appId": "1:199339725352:android:b643a6dbe67324c6179b1d",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "aravind-resume-29",
+          "configurations": {
+            "android": "1:199339725352:android:b643a6dbe67324c6179b1d",
+            "ios": "1:199339725352:ios:3da6081cbc781da3179b1d",
+            "macos": "1:199339725352:ios:3da6081cbc781da3179b1d",
+            "web": "1:199339725352:web:48390f15816997cb179b1d",
+            "windows": "1:199339725352:web:eedf39d74f7af7a0179b1d"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
